@@ -18,11 +18,15 @@ Now use this API and paste this in the code of views.py as this
 
  <b>SNEAK PEAK OF THE PROJECT<b>
  <br>
- ![image](https://github.com/Abhishek182005/Weatherapp-Django/assets/164459641/d8176371-b1e3-4e3c-8e48-52a19197cff8)
+ ![image](https://github.com/Abhishek182005/Weatherapp-Django/assets/164459641/66c0c208-c129-4e6f-972d-932c0a9cec0c)
 <br>
 <br>
-![image](https://github.com/Abhishek182005/Weatherapp-Django/assets/164459641/a65919d6-377c-4077-b9a8-eb38b454ebeb)
+![image](https://github.com/Abhishek182005/Weatherapp-Django/assets/164459641/10f53908-a6b5-412d-9b9a-857fe0126217)
 <br>
 <br>
-![image](https://github.com/Abhishek182005/Weatherapp-Django/assets/164459641/f1cb5f1b-9b8e-425c-a8d4-fb9d59737236)
+![image](https://github.com/Abhishek182005/Weatherapp-Django/assets/164459641/318b6dce-fe79-4aac-846b-0d73e042dc6e)
+<br>
+<br>
+![image](https://github.com/Abhishek182005/Weatherapp-Django/assets/164459641/a7917907-8b54-447c-9b78-c36959f221de)
+<br>
 
