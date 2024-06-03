@@ -1,7 +1,7 @@
 # Weatherapp-Django
 
-It is the  Django project which tells the weather conditon of a place at a given time
-<br>. This project needs module named request which is used in retrieving info from openweatherinfo.
+It is the  Django project which tells the weather conditon of a place at a given time.
+<br> This project needs module named request which is used in retrieving info from openweatherinfo.
 
 ⚠️<b><u>IMPORTANT</b></u>⚠️
 <br>
