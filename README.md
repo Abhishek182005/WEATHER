@@ -4,6 +4,7 @@ It is the  Django project which tells the weather conditon of a place at a given
 <br>. This project needs module named request which is used in retrieving info from openweatherinfo.
 
 ⚠️<b><u>IMPORTANT</b></u>⚠️
+<br>
 The openweatherinfo is open source website which can be easily used to retrieve the weather info of a give place.<br>
 for getting the API it reuires a sign in and then u will get your API key here<br>
 <br>
